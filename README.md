@@ -4,7 +4,7 @@
 This is a Pytorch implementation of the [ECL paper]():
 
 <p align="center">
-<img src="./Arch.png" width="800">
+<img src="./arch.png" width="800">
 </p>
 
 
