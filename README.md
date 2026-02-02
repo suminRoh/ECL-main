@@ -17,7 +17,6 @@ This is a Pytorch implementation of the [ECL paper]():
 
 
 | Method | IF | Top-1 Acc(%) |
-| :---:| :---:|:---:|
 | ECL   | 100   | 92.1%    |
 | ECL   | 50    | 92.5%    |
 | ECL   | 10    | 94.4%    |
@@ -28,7 +27,6 @@ This is a Pytorch implementation of the [ECL paper]():
 ```
 
 | Method | IF | Top-1 Acc(%) |
-| :---:| :---:|:---:|
 | ECL   | 100   | 66.3%    |
 | ECL   | 50    | 67.5%    |
 | ECL   | 10    | 71.0%    |
@@ -44,7 +42,6 @@ python main_imagenet.py
 
 
 | Method | Model | Many | Med | Few | All | model |
-| :---:| :---:|:---:|:---:|:---:| :---:|  :---:| 
 | ECL |ResNeXt-50 | 68.6  | 56.3  | 40.1     | 58.8    | [Download]() |
 
 
@@ -52,7 +49,6 @@ python main_imagenet.py
 
 
 | Method | Model | Top-1 Acc(%) | link | 
-| :---: | :---: | :---: | :---: | 
 |ECL | ResNet-50   | 87.31 | [Download]() | 
 
 
