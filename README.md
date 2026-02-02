@@ -16,20 +16,20 @@ This is a Pytorch implementation of the [ECL paper]():
 ### CIFAR-10-LT
 
 
-| Method | IF | Top-1 Acc(%) |
-| ECL   | 100   | 92.1%    |
-| ECL   | 50    | 92.5%    |
-| ECL   | 10    | 94.4%    |
+| Method |  IF   | Top-1 Acc(%) |
+| ECL    | 100   | 92.1%        |
+| ECL    | 50    | 92.5%        |
+| ECL    | 10    | 94.4%        |
 
 
 ### CIFAR-100-LT
 
 ```
 
-| Method | IF | Top-1 Acc(%) |
-| ECL   | 100   | 66.3%    |
-| ECL   | 50    | 67.5%    |
-| ECL   | 10    | 71.0%    |
+| Method | IF    | Top-1 Acc(%) |
+| ECL    | 100   | 66.3%        |
+| ECL    | 50    | 67.5%        |
+| ECL    | 10    | 71.0%        |
 
 
 
@@ -41,15 +41,15 @@ python main_imagenet.py
 (All default parameter setups are included in main_imagenet.py)
 
 
-| Method | Model | Many | Med | Few | All | model |
-| ECL |ResNeXt-50 | 68.6  | 56.3  | 40.1     | 58.8    | [Download]() |
+| Method | Model     | Many  | Med   | Few    | All   | 
+| ECL    |ResNeXt-50 | 68.6  | 56.3  | 40.1   | 58.8  | 
 
 
 ### ISIC2019 
 
 
-| Method | Model | Top-1 Acc(%) | link | 
-|ECL | ResNet-50   | 87.31 | [Download]() | 
+| Method | Model      | Top-1 Acc(%) | 
+|ECL     | ResNet-50  | 87.31        | 
 
 
 
